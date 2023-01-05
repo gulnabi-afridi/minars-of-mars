@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "walsheimBold";
+    src: url("/Fonts/gt-walsheim-bold-oblique-web.ttf");
+    font-display: swap;
+}
+@font-face {
+    font-family: 'GT Walsheim';
+    src: url("/Fonts/gt-walsheim-bold-web.ttf");
+    font-display: swap;
+}
+@font-face {
+    font-family: "walsheimLight";
+    src: url("/Fonts/gt-walsheim-light-oblique-web.ttf");
+    font-display: swap;
+}
+@font-face {
+    font-family: "walsheimLightWeb";
+    src: url("/gt-walsheim-light-web.ttf");
+    font-display: swap;
+}
+@font-face {
+    font-family: "walsheimMedium";
+    src: url("/gt-walsheim-medium-web.ttf");
+    font-display: swap;
+}
+@font-face {
+    font-family: "walsheimRegular";
+    src: url("/gt-walsheim-regular-oblique-web.ttf");
+    font-display: swap;
+}
+@font-face {
+    font-family: 'MBJ Chunky';
+    src: url("/MBJ-Chunky.ttf");
+    font-display: swap;
+}
+
+body{
+    background-color: #403a30;
+
+}
+/*  */
+.pickMineOverly{
+    background: rgba(52, 48, 42, 0.91);
+}

@@ -1,0 +1,12 @@
+
+# Private Node Modules
+node_modules/
+creds.js
+.yarn/*
+.idea/*
+.next/*
+
+
+
+# Mac/OSX
+.DS_Store
